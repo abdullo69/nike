@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* translate-y-[-350px] group-hover/item1:translate-y-[16px]  */
